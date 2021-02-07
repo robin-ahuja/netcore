@@ -1,0 +1,12 @@
+D:\Projects\netcore\EFCore\OrganizationService\OrgDAL\bin\Debug\netcoreapp2.1\OrgDAL.deps.json
+D:\Projects\netcore\EFCore\OrganizationService\OrgDAL\bin\Debug\netcoreapp2.1\OrgDAL.runtimeconfig.json
+D:\Projects\netcore\EFCore\OrganizationService\OrgDAL\bin\Debug\netcoreapp2.1\OrgDAL.runtimeconfig.dev.json
+D:\Projects\netcore\EFCore\OrganizationService\OrgDAL\bin\Debug\netcoreapp2.1\OrgDAL.dll
+D:\Projects\netcore\EFCore\OrganizationService\OrgDAL\bin\Debug\netcoreapp2.1\OrgDAL.pdb
+D:\Projects\netcore\EFCore\OrganizationService\OrgDAL\obj\Debug\netcoreapp2.1\OrgDAL.csprojAssemblyReference.cache
+D:\Projects\netcore\EFCore\OrganizationService\OrgDAL\obj\Debug\netcoreapp2.1\OrgDAL.AssemblyInfoInputs.cache
+D:\Projects\netcore\EFCore\OrganizationService\OrgDAL\obj\Debug\netcoreapp2.1\OrgDAL.AssemblyInfo.cs
+D:\Projects\netcore\EFCore\OrganizationService\OrgDAL\obj\Debug\netcoreapp2.1\OrgDAL.csproj.CoreCompileInputs.cache
+D:\Projects\netcore\EFCore\OrganizationService\OrgDAL\obj\Debug\netcoreapp2.1\OrgDAL.dll
+D:\Projects\netcore\EFCore\OrganizationService\OrgDAL\obj\Debug\netcoreapp2.1\OrgDAL.pdb
+D:\Projects\netcore\EFCore\OrganizationService\OrgDAL\obj\Debug\netcoreapp2.1\OrgDAL.genruntimeconfig.cache
